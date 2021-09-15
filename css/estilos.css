@@ -1,6 +1,39 @@
 body {
-    background-color: rgb(0, 204, 255);
+    color: white;
+    background-image: url(../foto/fondo-de-amor.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1400px;
+    font-family: 'Roboto', sans-serif;;
+}
+
+img{
+    width: 300px;
+    height: 275px;
 }
 
 
+img.foto-testdeinteligencia {
+    width: 70%;
+    height: 70%;
+}
+img.foto-testdepersonalidad{
+    width: 70%;
+    height: 70%;
+}
+img.foto-misvistudes{
+    width: 1000px;
+    height: 1000px;
+}
+.centrado {
+    text-align: center;
+}
+img.foto-foto{
+    width: 900px;
+    height: 900px;
+}
 
+a{
+    color: white;
+}
